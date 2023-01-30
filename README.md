@@ -67,7 +67,7 @@ CheckList foi baseado em uma Lista de Share-point-sever, tendo todos seu dados a
 	<tbody>
 		<tr>
 			<td>
-<img style="margin:auto" src="PESSOA.png" width="300" /></td>
+<img style="margin:auto" src="PESSOA1.png" width="300" /></td>
 			<td>
 			<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
 				<tbody>
@@ -96,7 +96,7 @@ Tela onde os usuarios podem ver oque cada setor segundo a orientação do 5S da 
 <table border="0" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
-			<td><strong><p align="center"><img style="margin:auto" src="FocalPoints.png" width="300" /><br> Lista de <ins>TODOS</ins> os FocalPoints</p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="FocalPoints1.png" width="300" /><br> Lista de <ins>TODOS</ins> os FocalPoints</p><strong></td>
 			<td><strong><p align="center"><img style="margin:auto" src="FocalPoints2.png" width="300" /><br> Orientação do <ins>Atual FocalPoint</ins> da Pessoa.</p><strong></td>
 		</tr>
 	</tbody>
