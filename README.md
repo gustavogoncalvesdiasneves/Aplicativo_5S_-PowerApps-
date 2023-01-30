@@ -48,7 +48,7 @@
 A aplicação fornece os seguintes recursos:
 - [CheckList](#checklist) (Baseada no Share-Point como Banco de Dados)
 - [FocalPoints](#focalpoints) (Tela onde o usuario pode verificar oque cada FocalPoint faz em sua aréa)
-- Indicadores (Graficos Inteligentes e Comparativos)  
+- [Indicadores](#indicadores) (Graficos Inteligentes e Comparativos)  
 - Meus CheckLists (Podendo Visualizar Todos os Checklist's que o usuario enviou até o momento utilizando o app)
 - Tela Admin (Contendo Funções Previlegiadas, Somente Admins e Gestor tem Acesso á essa tela)
 
@@ -101,7 +101,61 @@ Tela onde os usuarios podem ver oque cada setor segundo a orientação do 5S da 
 		</tr>
 	</tbody>
 </table>
+		
+<br/>
 
+## **Indicadores**
+		
+**Grafico Geral**
+
+Tela onde o usuario pode e Administradores podem ver um **Grafico Geral** e um Grafico com **Valores Unicos** de cada setor.
+		
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Geral.png" width="600" /><br> Grafico Geral</p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Geral2.png" width="380" /><br> Possibilidade de <ins>Filtrar por Datas</ins></p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Geral3.png" width="300" /><br> Basta selecionar a <ins>Data</ins> que deseje que o Grafico Filtre.</p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Geral4.png" width="330" /><br> Possibilidade de  <ins>visualizar outros setores</ins></p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Geral5.png" width="150" /><br> Depois de selecionar o <ins>Setor</ins> e <ins>Datas</ins> desejadas o grafico automaticamente filtrará :D <p><strong></td>
+		</tr>
+	</tbody>
+</table>
+				
+**Grafico Unico**
+				
+<hr />
+				
+<h3 align="center">IMPORTANTE</h3>
+				
+<strong><p align="center"><img style="margin:auto" src="G1_to_G2.png" width="300" /><br> Para passar do <ins>Grafico Geral</ins> para o <ins>Grafico Unico</ins> Clique no Botão da Seta para Direita.</p><strong>
+	
+<hr />
+
+Grafico onde pode ver as diferenças de cada setor por **S** Separados. (Com Bonus de Soma Geral de Todos os S)
+				
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico.png" width="300" /><br> Grafico Mostrando somente o <ins>1S</ins></p><strong></td>
+			<td>
+			<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+				<tbody>
+					<tr>
+						<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico2.png" width="100" /><br> Grafico Mostrando somente o <ins>2S</ins></p><strong></td>
+						<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico3.png" width="100" /><br> Grafico Mostrando somente o <ins>3S</ins> </p><strong></td>
+					</tr>
+					<tr>
+						<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico4.png" width="100" /><br> Grafico Mostrando somente o  <ins>4S</ins></p><strong></td>
+						<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico5.png" width="100" /><br> Grafico Mostrando somente o <ins>5S</ins><p><strong></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td><strong><p align="center"><img style="margin:auto" src="Grafico_Unico6.png" width="300" /><br> Grafico Mostrando a soma de  <ins>Todos os 5S</ins><p><strong></td>
+		</tr>
+	</tbody>
+</table>
 
 
 
