@@ -39,7 +39,7 @@
 
 
 ## **Descrição**
-[BOT LinkedIn][link-bot-linkedin] é um Aplicativo de Gestão 5S, mais voltado a gestão de preenchimento de check-lists dos setores da empresa, podendo ter a visualização por Graficos Power BI (Graficos Inteligentes), e premiações utilizando notificações quando se é premiado (OBS: essas premiações passava para um grafico de controle geral que a empresa tinha acesso para premiar o funcionario), O App possui tela Admin para não precisar do Gestor do App para funções mais especificas, como: Cadastrar Funcionarios Novos, Remover ou Editar(Podendo editar o previlegio de um usuario que não tem acesso a tela Admin para ter acesso), Adicionar Mais Opções na Check-List de um Setor, ou Remover ou Editar, Visualizador dos PDFs gerados quando enviados os checklists (também havendo possibilidade de remover), Tela de Premiações, IMG para JSON (Tela do Gestor - Um Conversor de IMG para formato JSON, utilizados na automação de criação de PDFs), entre outras muitas funções =D.
+[APP 5S][link-app-5s] é um Aplicativo de Gestão 5S, mais voltado a gestão de preenchimento de check-lists dos setores da empresa, podendo ter a visualização por Graficos Power BI (Graficos Inteligentes), e premiações utilizando notificações quando se é premiado (OBS: essas premiações passava para um grafico de controle geral que a empresa tinha acesso para premiar o funcionario), O App possui tela Admin para não precisar do Gestor do App para funções mais especificas, como: Cadastrar Funcionarios Novos, Remover ou Editar(Podendo editar o previlegio de um usuario que não tem acesso a tela Admin para ter acesso), Adicionar Mais Opções na Check-List de um Setor, ou Remover ou Editar, Visualizador dos PDFs gerados quando enviados os checklists (também havendo possibilidade de remover), Tela de Premiações, IMG para JSON (Tela do Gestor - Um Conversor de IMG para formato JSON, utilizados na automação de criação de PDFs), entre outras muitas funções =D.
 
 <br/><br/>
 
@@ -47,7 +47,7 @@
 ## **Características**
 A aplicação fornece os seguintes recursos:
 - [CheckList](#checklist) (Baseada no Share-Point como Banco de Dados)
-- FocalPoints (Tela onde o usuario pode verificar oque cada FocalPoint faz em sua aréa)
+- [FocalPoints](#focalpoints) (Tela onde o usuario pode verificar oque cada FocalPoint faz em sua aréa)
 - Indicadores (Graficos Inteligentes e Comparativos)  
 - Meus CheckLists (Podendo Visualizar Todos os Checklist's que o usuario enviou até o momento utilizando o app)
 - Tela Admin (Contendo Funções Previlegiadas, Somente Admins e Gestor tem Acesso á essa tela)
@@ -87,12 +87,29 @@ CheckList foi baseado em uma Lista de Share-point-sever, tendo todos seu dados a
 	</tbody>
 </table>
 
+<br/>
+
+## **FocalPoints**
+
+Tela onde os usuarios podem ver oque cada setor segundo a orientação do 5S da empresa necesita que ele realize.
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><strong><p align="center"><img style="margin:auto" src="FocalPoints.png" width="300" /><br> Lista de <ins>TODOS</ins> os FocalPoints</p><strong></td>
+			<td><strong><p align="center"><img style="margin:auto" src="FocalPoints2.png" width="300" /><br> Orientação do <ins>Atual FocalPoint</ins> da Pessoa.</p><strong></td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 
 <!-- 
     LOCAL VARIABLES
  -->
 
-[link-bot-linkedin]: https://github.com/gustavogoncalvesdiasneves/BOT_LinkedIn/
+[link-app-5s]: https://github.com/gustavogoncalvesdiasneves/Aplicativo_5S_-PowerApps-/
 [link-executavel]: https://github.com/gustavogoncalvesdiasneves/BOT_LinkedIn/tree/main/build/Executavel
 [link-video]: https://www.youtube.com/channel/UC_9SeJaG7zalUCosUt8BnFA
 [link-pdf-navegador]: http://www.gestaoescolar.diaadia.pr.gov.br/arquivos/File/pde_roteiros/como_identificar_versao_navegador_pronto.pdf
